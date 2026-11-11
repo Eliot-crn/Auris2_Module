@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#000000</color>
+    <color name="surface">#111A2B</color>
+    <color name="stroke">#26344F</color>
+    <color name="text">#F2F5FA</color>
+    <color name="text_dim">#A3B0C6</color>
+    <color name="accent">#5AA2FF</color>
+    <color name="on_accent">#04101F</color>
+    <color name="ok">#4CD38A</color>
+    <color name="warn">#FFB020</color>
+    <color name="off">#8A96AB</color>
+    <!-- verre (liquid glass) -->
+    <color name="glass">#1FFFFFFF</color>
+    <color name="glass_edge">#73FFFFFF</color>
+    <color name="sheen">#1FFFFFFF</color>
+    <color name="scrim">#66000000</color>
+    <color name="blob1">#1D4FB0</color>
+    <color name="blob2">#55289A</color>
+    <color name="blob3">#0C6A70</color>
+</resources>

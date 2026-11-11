@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Le dessin occupe 83 % du PNG : marge de 14 % pour tenir dans la zone sûre (61 %) de l'icône adaptative. -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/logo"
+    android:inset="14%" />
